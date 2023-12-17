@@ -1,38 +1,43 @@
-.App {
-  text-align: center;
+.App{
+  width: 100vw;
+  height: 100vh;
+  border: 1px solid salmon;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+form{
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.element{
+  display: flex;
+  flex-direction: column;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+input{
+  outline: none;
+  padding: 5px;
+  outline: 1px solid rgb(177, 177, 177);
+  border: none;
+}
+
+input:focus{
+  
+  border: none;
+}
+
+label{
+  font-weight: 500;
+  color: rgb(199, 6, 64);
+}
+
+.password-match{
+  outline: 1px solid rgb(7, 122, 3);
+}
+
+.password-mismatch{
+  outline: 1px solid rgb(161, 4, 4);
 }
