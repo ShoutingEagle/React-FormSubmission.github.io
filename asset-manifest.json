@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/React-FormSubmission.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/React-FormSubmission.github.io/static/js/main.1775b3b6.js",
-    "static/js/787.2d9d146b.chunk.js": "/React-FormSubmission.github.io/static/js/787.2d9d146b.chunk.js",
-    "static/media/logo.svg": "/React-FormSubmission.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/React-FormSubmission.github.io/static/css/main.6ee90e6d.css",
+    "main.js": "/React-FormSubmission.github.io/static/js/main.f5f7a9ab.js",
     "index.html": "/React-FormSubmission.github.io/index.html",
-    "main.f855e6bc.css.map": "/React-FormSubmission.github.io/static/css/main.f855e6bc.css.map",
-    "main.1775b3b6.js.map": "/React-FormSubmission.github.io/static/js/main.1775b3b6.js.map",
-    "787.2d9d146b.chunk.js.map": "/React-FormSubmission.github.io/static/js/787.2d9d146b.chunk.js.map"
+    "main.6ee90e6d.css.map": "/React-FormSubmission.github.io/static/css/main.6ee90e6d.css.map",
+    "main.f5f7a9ab.js.map": "/React-FormSubmission.github.io/static/js/main.f5f7a9ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1775b3b6.js"
+    "static/css/main.6ee90e6d.css",
+    "static/js/main.f5f7a9ab.js"
   ]
 }
